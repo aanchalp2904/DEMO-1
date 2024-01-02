@@ -1,4 +1,4 @@
-# DEMO-1
+# DEMO
 First git repositry
 <br>
 Author-Aanchal Patil
